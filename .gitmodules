@@ -1,0 +1,6 @@
+[submodule "/home/jade/.local/share/icons/candy-icons"]
+	path = /home/jade/.local/share/icons/candy-icons
+	url = git@github.com:EliverLara/candy-icons.git
+[submodule "/home/jade/.local/share/icons/Sweet-folders"]
+	path = /home/jade/.local/share/icons/Sweet-folders
+	url = https://github.com/EliverLara/Sweet-folders
