@@ -1,0 +1,6 @@
+/*
+!.gitignore
+!.zshrc
+!.config
+.config/*
+!.config/hypr
